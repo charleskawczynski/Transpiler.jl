@@ -1,0 +1,7 @@
+name = "Transpiler"
+uuid = "d65fb2d9-ccc3-444c-b805-185ff0318a02"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BetweenFlags = "0601b4d0-0592-11e9-1558-ab091b5e7996"
